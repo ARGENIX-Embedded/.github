@@ -1,4 +1,4 @@
-![image alt](https://github.com/ARGENIX-Embedded/Argenix-MIK32-Amur-Project/blob/main/Repository%20content/Logo.png?raw=true)
+![image alt](https://github.com/ARGENIX-Embedded/.github/blob/main/Logo.png?raw=true)
 
 ## Описание
 
